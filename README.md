@@ -47,3 +47,4 @@ commit - здійснити, вчинити.
 
 git restore --staged <file> - to remove a file from the staging area (git restore --staged test.txt) does not worked in my module-git
   
+2, 44
