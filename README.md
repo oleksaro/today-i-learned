@@ -43,6 +43,7 @@ to save or create a shot of changes (and move the file from the staging area to 
 
 commit - здійснити, вчинити.
 
-- m after git commit is "message" - description of changes.
+"- m" after git commit is "message" - description of changes.
 
-git restore --staged <file> - to remove a file from the staging area (git restore --staged test.txt)
+git restore --staged <file> - to remove a file from the staging area (git restore --staged test.txt) does not worked in my module-git
+  
