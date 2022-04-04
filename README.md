@@ -16,3 +16,33 @@ cd - перехід в директорію, cd for one level up or cd ~ and go 
 ls - список
 
 touch - створити файл (touch test.txt creates the new text file with the name test). *! about speed of the action, does it worth it?*
+
+mkdir - creates directory (mkdir new folder)
+
+cp - copy
+
+mv - move
+
+cat - opens (reads) the file (cat test.txt)
+
+=============================================
+
+**always use git status before git commit**
+
+git add - adds files from choosed directory to the staging area (commands git to look for those files) (git add test.txt)
+
+git add . - all files in a directory will be added to the staging area
+
+check with git status
+
+*all git commands use in git directory that was added to the git previously with git init (to check use git status or ls -a)*
+
+*also with git status you can check the spelling of the files in the selected directory/*
+
+to save or create a shot of changes (and move the file from the staging area to the git) use git commit (git commit -m "first commit"). Git will create a record of those files (record changes in those files that has been added to the staging area (green ones))
+
+commit - здійснити, вчинити.
+
+- m after git commit is "message" - description of changes.
+
+git restore --staged <file> - to remove a file from the staging area (git restore --staged test.txt)
