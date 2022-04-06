@@ -49,6 +49,47 @@ git restore --staged <file> - to remove a file from the staging area (git restor
   
 git clone link - copies project to the local machine.
   
-https://githowto.com/uk
+[Git HOWTO](https://githowto.com/uk)
   
 git remote -v - shows all remote repos.
+
+html - structure, css - colors, sizes.
+  
+[can I use](https://caniuse.com/)
+
+[Bootstrap](https://getbootstrap.com/)
+
+[test](https://codepen.io/pen/)
+  
+/<h1>
+  H1header
+</h1>
+<a href="https://www.figma.com/">the link</a>
+<img src="https://placekitten.com/200/300" alt="a cat">
+<p>
+  HELLO
+  code < p > is paragraph, for text
+</p>
+<p>
+  HELLO
+  HEllo
+</p>
+<div>
+  Div - block (contains anything)
+</div>
+<ul>
+  <li>UL - is bullet (unordered) List</li>
+  <li>UL < li > - is List</li>
+  <li>UL - is List</li>
+</ul>
+<ol>
+  <li>OL - is numered (ordered) List</li>
+  <li>OL - is List</li>
+</ol>/
+  CSS
+  h1 {
+  outline: 2px solid red
+}
+a {
+  outline: 1px solid green
+}
