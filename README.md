@@ -51,4 +51,4 @@ git clone link - copies project to the local machine.
   
 https://githowto.com/uk
   
-
+git remote -v - shows all remote repos.
