@@ -60,39 +60,8 @@ html - structure, css - colors, sizes.
 [Bootstrap](https://getbootstrap.com/)
 
 [test](https://codepen.io/pen/)
-**[https://developer.mozilla.org/en-US/](Довідник HTML)**
-**[https://codepen.io/](Code Pan - online редактор для HTML/CSS/JavaScript)**
   
-/<h1>
-  H1header
-</h1>
-<a href="https://www.figma.com/">the link</a>
-<img src="https://placekitten.com/200/300" alt="a cat">
-<p>
-  HELLO
-  code < p > is paragraph, for text
-</p>
-<p>
-  HELLO
-  HEllo
-</p>
-<div>
-  Div - block (contains anything)
-</div>
-<ul>
-  <li>UL - is bullet (unordered) List</li>
-  <li>UL < li > - is List</li>
-  <li>UL - is List</li>
-</ul>
-<ol>
-  <li>OL - is numered (ordered) List</li>
-  <li>OL - is List</li>
-</ol>/
-  CSS
-  h1 {
-  outline: 2px solid red
-}
-a {
-  outline: 1px solid green
-}
-
+**[Довідник HTML](https://developer.mozilla.org/en-US/)**
+  
+**[Code Pan - online редактор для HTML/CSS/JavaScript](https://codepen.io/)**
+  
