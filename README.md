@@ -93,3 +93,5 @@ html - structure, css - colors, sizes.
 a {
   outline: 1px solid green
 }
+**[https://developer.mozilla.org/en-US/](Довідник HTML)**
+**[https://codepen.io/](Code Pan - online редактор для HTML/CSS/JavaScript)**
