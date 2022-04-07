@@ -60,6 +60,8 @@ html - structure, css - colors, sizes.
 [Bootstrap](https://getbootstrap.com/)
 
 [test](https://codepen.io/pen/)
+**[https://developer.mozilla.org/en-US/](Довідник HTML)**
+**[https://codepen.io/](Code Pan - online редактор для HTML/CSS/JavaScript)**
   
 /<h1>
   H1header
@@ -93,5 +95,4 @@ html - structure, css - colors, sizes.
 a {
   outline: 1px solid green
 }
-**[https://developer.mozilla.org/en-US/](Довідник HTML)**
-**[https://codepen.io/](Code Pan - online редактор для HTML/CSS/JavaScript)**
+
