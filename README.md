@@ -65,3 +65,4 @@ html - structure, css - colors, sizes.
   
 **[Code Pan - online редактор для HTML/CSS/JavaScript](https://codepen.io/)**
   
+34 хв мод 3
