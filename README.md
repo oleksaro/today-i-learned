@@ -82,7 +82,7 @@ CSS <style> puts in html head
 
 colours in CSS starts with # or rgb.
 
-#id should be only one(do not use it!). For more united elements use class.
+id should be only one(do not use it!). For more united elements use class.
 
 .(dot) and # - selectors for class
 
