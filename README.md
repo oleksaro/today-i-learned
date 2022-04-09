@@ -72,7 +72,7 @@ div.TAB
   
 CTRL+~ - opens terminal in VSCode
   
-<!-- enter (or CTRL/)- comment line
+< !-- enter (or CTRL/)- comment line
 
 *h1* shold be only one!
 
