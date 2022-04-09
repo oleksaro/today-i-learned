@@ -1,4 +1,7 @@
 # today-i-learned
+
+.md stands for markdown
+
 that was a test text for course.
 
 but it appears in #header somehow
@@ -65,4 +68,8 @@ html - structure, css - colors, sizes.
   
 **[Code Pan - online редактор для HTML/CSS/JavaScript](https://codepen.io/)**
   
-34 хв мод 3
+div.TAB
+  
+CTRL+~ - opens terminal in VSCode
+  
+<!-- enter (or CTRL/)- comment line
