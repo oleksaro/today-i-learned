@@ -73,3 +73,21 @@ div.TAB
 CTRL+~ - opens terminal in VSCode
   
 <!-- enter (or CTRL/)- comment line
+
+*h1* shold be only one!
+
+Shift+TAB moves selected rows in VSCode.
+
+CSS <style> puts in html head
+
+colours in CSS starts with # or rgb.
+
+#id should be only one(do not use it!). For more united elements use class.
+
+.(dot) and # - selectors for class
+
+CSS vlastyvosti ne chipliaty na ID - nikoly! Do not use id for werstka.
+
+ne yusay style na elementakh
+
+link only in head
