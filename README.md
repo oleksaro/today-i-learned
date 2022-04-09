@@ -91,3 +91,5 @@ CSS vlastyvosti ne chipliaty na ID - nikoly! Do not use id for werstka.
 ne yusay style na elementakh
 
 link only in head
+  
+  парсер іде згори донизу, тому застосуються ті стилі, що в останньому лінку.
