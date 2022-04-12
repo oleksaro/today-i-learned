@@ -93,3 +93,5 @@ ne yusay style na elementakh
 link only in head
   
   парсер іде згори донизу, тому видно буде ті стилі, що в останньому лінку.
+  
+  css 2 1:16
