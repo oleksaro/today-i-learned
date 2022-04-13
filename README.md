@@ -114,4 +114,4 @@ link only in head
   
   vw and vh - scales element size when you change window size by heigh and with.
   
-  div.wrapper+enter - adds all symbols to div and creates name from text after the dot "wrapper".
+  div.wrapper+enter - adds all symbols to div and creates class with name from text after the dot "wrapper".
