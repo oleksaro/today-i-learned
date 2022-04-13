@@ -95,3 +95,11 @@ link only in head
   парсер іде згори донизу, тому видно буде ті стилі, що в останньому лінку.
   
   css 2 1:16
+  
+  on page Network all can see haw it reads
+  
+  margin - outline stroke
+  
+  pedding - inline stroke
+  
+  Ctrl+Shift+R renew and clears cache.
