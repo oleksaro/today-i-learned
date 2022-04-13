@@ -103,3 +103,15 @@ link only in head
   pedding - inline stroke
   
   Ctrl+Shift+R renew and clears cache.
+  
+**USE dash - dash in styles and classes names!**
+  
+  div - block
+  
+  span - just for the content size inline
+  
+  16px - defolt font size in Chrome.
+  
+  vw and vh - scales element size when you change window size by heigh and with.
+  
+  div.wrapper+enter - adds all symbols to div and creates name from text after the dot "wrapper".
