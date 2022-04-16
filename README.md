@@ -115,3 +115,7 @@ link only in head
   vw and vh - scales element size when you change window size by heigh and with.
   
   div.wrapper+enter - adds all symbols to div and creates class with name from text after the dot "wrapper".
+  
+  you can't change size of the inline object. Inline object is always according to content size.
+  
+  
