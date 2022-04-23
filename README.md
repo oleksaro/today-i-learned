@@ -119,3 +119,34 @@ link only in head
   you can't change size of the inline object. Inline object is always according to content size.
   
   4 - 35:48
+  
+  **flexbox** is enough
+  
+  browser coordinates starts with 0 zero
+  
+  right (flex-direction: row) - **X**
+  
+  down (flex-direction: column) - **Y**
+  
+  flexbox builds container
+  
+  var - variable, will change all variables used in file.
+  
+  :root - will be available in all style file
+  
+  justify-content: space-between - вирівнює рівномірно (дві колонки рівно по площі)
+  
+  justify-content: center - в центрі
+  
+  flex-wrap - переносить блоки по розміру екрана
+  
+  flex-grow: 2; - рости на число більше(швидше) від інших
+  
+  flex-shrink - зменшуватись.
+  
+  flex-basis: 25%; - початковий розмір елемента % від всього контейнера.
+  
+  flex: 1 1 auto; - де 1 - ґроу, 1 - шрінк, auto - бейзіс.
+  
+  html-css-module-5 1-20-50
+  
