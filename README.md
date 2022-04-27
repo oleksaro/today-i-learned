@@ -151,3 +151,9 @@ link only in head
   html-css-module-5 1-20-50
   
   <a href="#" - not open any link
+     
+ **page grid has 12 columns**
+     
+ [вага стилів](https://specifishity.com/)
+     
+ media queries - запускає стилі на різних розмірах екрану.
