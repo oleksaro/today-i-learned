@@ -158,6 +158,13 @@ link only in head
      
  media queries - запускає стилі на різних розмірах екрану.
      
- html7 - 55
+@media (min-width: 200px) and (max-width: 600px) у межах між
+ 
+ with - для конкретного значення.
+ 
+create greed (12, 10, 24 ....) html-css7 1:16:30
+     
+     
+     
      
  js1 32
