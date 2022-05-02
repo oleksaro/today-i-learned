@@ -162,7 +162,7 @@ link only in head
  
  with - для конкретного значення.
  
-create greed (12, 10, 24 ....) html-css7 1:16:30
+create grid (12, 10, 24 ....) html-css7 1:16:30
      
      
      
