@@ -157,3 +157,7 @@ link only in head
  [вага стилів](https://specifishity.com/)
      
  media queries - запускає стилі на різних розмірах екрану.
+     
+ html7 - 55
+     
+ js1 32
