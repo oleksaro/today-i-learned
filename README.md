@@ -166,6 +166,8 @@ create grid (12, 10, 24 ....) html-css7 1:16:30
      
 create mediaquery - html-css7 1:28
 
- js1 48 - home task
+ js1 48 - home task, 1:05 - reading the code
      
 **do not duplicate the code**
+     
+js1 1:09 - start js
