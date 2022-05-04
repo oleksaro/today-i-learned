@@ -171,3 +171,7 @@ create mediaquery - html-css7 1:28
 **do not duplicate the code**
      
 js1 1:09 - start js
+     
+*NOT, AND, OR* logical operators
+     
+    js1 1:34 - issue, bug report to learning project.
