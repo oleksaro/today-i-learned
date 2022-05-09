@@ -177,3 +177,11 @@ js1 1:09 - start js
     js1 1:34 - issue, bug report to learning project.
      
 1:45 js language
+
+ECMAScript (ES) - standart of JS
+
+Babel transforms code for older versions of browsers. працює лише на пониження
+     
+cordova - packs js, html, css in one box for mobile hybrid apps
+     
+js2 - 45 
