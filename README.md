@@ -197,3 +197,9 @@ the result will be string if there is at least one string value.
 if type *html 5* in vs code html document it will add Doctype.
      
 const in js - constanta.
+     
+     const in locked - you can not add anything to the const
+     
+js2 - 1:38:40 - test in js (but not explained).
+     
+js2 - 1:48 - home task (additional components in html/css) *can use for redoing*
