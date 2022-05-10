@@ -184,4 +184,16 @@ Babel transforms code for older versions of browsers. працює лише на
      
 cordova - packs js, html, css in one box for mobile hybrid apps
      
-js2 - 45 
+js2 - 1:01 - start js
+     
+*F12* on windows opens "inspect" console in browser.
+     
+JS can process basic mathematic.
+     
+text or numbers in "", '' or ``(on tilda) are string
+     
+the result will be string if there is at least one string value.
+
+if type *html 5* in vs code html document it will add Doctype.
+     
+const in js - constanta.
