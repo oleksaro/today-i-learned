@@ -203,3 +203,12 @@ const in js - constanta.
 js2 - 1:38:40 - test in js (but not explained).
      
 js2 - 1:48 - home task (additional components in html/css) *can use for redoing*
+     
+     js3 - 13:30 - refork all repos and do ht.
+     
+28:20 -boolean
+     
+*1 > 2
+false*
+    
+    29:35
